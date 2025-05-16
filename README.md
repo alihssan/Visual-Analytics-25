@@ -3,24 +3,6 @@
 ## Course Overview
 This course teaches how to analyze large, high-dimensional, partially unreliable, and incomplete data using data analysis techniques and interactive visualizations that are tightly coupled. The course emphasizes the interdisciplinary nature of Visual Analytics, covering aspects of visual perception, cognitive processing, and decision-making processes.
 
-## Course Details
-- **ECTS Credits:** 6
-- **Target Audience:** 
-  - WPF CV-Master 1-3
-  - WPF INF-Master 1-3
-  - WPF IngIF-Master 1-3
-  - WPF WIF-Master 1-3
-  - WPF DKE-Master 1-3
-  - WPF DigiEng-Master 1-3
-  - WPF Statistik-Master 1-3
-  - WPF VC-Master 1-3
-
-## Schedule and Organization
-### Lectures
-- **Location:** G29-307
-- **Time:** Friday, 09:00 – 11:00 (weekly)
-- **First Lecture:** April 11, 2025
-- **No Lectures:** April 25 and May 9 (see video recordings for these dates)
 
 ### Exercise Sessions
 - Exercise sheets are posted every Monday starting from April 29
@@ -58,10 +40,6 @@ The course is designed for:
 - Statisticians
 - Physicians
 
-## Examination Requirements
-- Timely registration (approximately four weeks in advance)
-- Voting for at least 67% of the exercise tasks
-- Additional task available for students with 26-30 votation points (deadline: July 26)
 
 ## Course Structure
 The course consists of:
@@ -89,6 +67,3 @@ The course consists of:
   - Why Visual Analytics? Interview with the Experts
   - Problem Solving with Visual Analytics
   - Visual Introduction to Decision Tree Induction
-
-## Contact
-For more information, visit the [official course website](https://www.vismd.de/teaching/visual-analytics/). 
